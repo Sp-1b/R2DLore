@@ -10,17 +10,17 @@ An undetectable disease of unknown origin, initially discovered during the early
 
 ## Discovery
 
-During the years 2005-2010 multiple research research projects were conducted in multiple RMAW subsidiaries, all looking for a new source energy; One of those, the [[Zeta Project]] was part of the big initiative of [[RMAW]] to replace the dying fossil fuels industry.
+During the years 2005-2010 multiple research research projects were conducted in several RMAW subsidiaries, all looking for a new source energy; One of those, the [[Zeta Project]] was part of the big initiative of [[RMAW]] to replace the [[Ecologic crisis of 2004 | dying fossil fuels industry.]]
 
 During the project, researchers noticed adverse health effects on the on-site personnel, the conditions were then erroneously linked to the [[Zeta Compound]] that research was being conducted on. However, early tests conducted at SANI proved inconclusive at linking the symptoms to the compound. 
 
-The true culprit was found much later, when a mobilized division of SANI personnel were sent to the project site by RMAW executives, which had finally given in after receiving numerous complaints from the Zeta Project administration citing severe health concerns that impeded further research.
+The true culprit was found much later, when a mobilized division of SANI was sent to the project site by RMAW executives, which had finally given in after receiving numerous complaints from the Zeta Project administration, citing severe health concerns that impeded further research.
 
-Upon arrival, the SANI crew settled themselves in the facility and started conducting research on-site. after a few weeks they had managed to isolate the source of the symptoms to one area: [[The Gateway]] and the energy which emanated from it, designated **ZHEM**.
+Upon arrival, the SANI crew settled themselves in the facility and started conducting research on-site. after a few weeks they had managed to isolate the source of the symptoms to one area: [[The Gateway]] and the energy which emanated from it, designated **ZH-EM**.
 
 ## Origin
 
-The only thing that's known about ZHEM is that it comes from beyond the gateway, its anomalous properties make it impossible to analyze and it's only purpose is seemingly to spread.
+The only thing that's known about ZH-EM is that it comes from beyond the gateway, its anomalous properties make it impossible to analyze, being seemingly entropic in nature.
 
 ## Behavior
 

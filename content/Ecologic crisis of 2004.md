@@ -7,10 +7,12 @@ Claimed to be the result of a coordinated attack on major energetic facilities, 
 
 ## Consequences
 
-- Major worldwide regulations on importation and extraction of coal, petroleum and natural gas.
+- Major worldwide regulations on importation and extraction of coal, petroleum, lithium, uranium, natural gas and several other minerals.
   
 -  Shutting down of nuclear and coal plants in response to public fears of potential attacks and further environmental damage.
 
-- Exponential rise of energy costs 
+- Exponential rise of energy costs, significant parts of the power grid considered non-essential being shut down. 
+
+- Energy rationing policies during the night and early morning. 
   
 - Instauration of several preservation organizations, including the [[Hive Protection Organization (HPO)]]

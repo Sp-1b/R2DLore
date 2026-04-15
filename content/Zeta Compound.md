@@ -12,4 +12,4 @@ Because the company was not equipped to undertake such an effort, the samples we
 
 ## Appearance
 
-Greenish crystalline hexagonal formation. At a molecular level some of its components appear to be connected by nothing at all, although its possible its some unobservable form of matter or energy invisibly linking them.
+Greenish crystalline hexagonal formation. At a molecular level some of its components appear to be connected by nothing at all, although its possible its some imperceptible form of matter or energy invisibly linking them.

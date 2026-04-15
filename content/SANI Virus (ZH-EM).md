@@ -24,15 +24,15 @@ The only thing that's known about ZH-EM is that it comes from beyond the gateway
 
 ## Behavior
 
->"Subjects exposed to small doses of ZHEM will display symptoms such as dizziness, lethargy and lapses in memory, at this point they are already considered diseased and must be quarantined. 
-No contact with the subject must be initiated under any circumstance, as the pathogen spreads seemingly just by being in proximity of any source." 
+>"Subjects exposed to small doses of ZH-EM will display symptoms such as dizziness, lethargy and lapses in memory, at this point they are already considered diseased and must be quarantined. 
+No contact with the subject must be initiated under any circumstance, as the pathogen apparently spreads by being in proximity of any source." 
 
 >"Even prolonged exposure will decay the filters present within [[Ticker | HAZMAT suits]] and allow the pathogen to pass."
 
->"Further exposure will increase the length of the lapses in memory and the subject will start decaying neurologically: The ability to remember key events and people will severely diminish until the subject is unable to recall basic personally identifiable information such as its own name or age."
+>"Further exposure will increase the length of the lapses in memory and the subject will start decaying neurologically: The ability to remember people and key events will severely diminish until the subject is unable to recall basic personally identifiable information such as its own name or age."
 
->"Past this point protocol advices to eliminate these subjects as they are to become sources of ZHEM if the disease is allowed to fester any further."
+>"Past this point protocol advices to eliminate these subjects as they are to become sources of ZH-EM if the disease is allowed to fester any further."
 
->"On its final stages the subject will show signs of aggression toward non-carriers, a behavior akin to that one found in viruses and parasites. It is now that the subjects, now considered **Terminal Carriers** will start showing visible symptoms; sickly and greenish skin, yellowing of eyes, and surprisingly enough, astounding physical longevity relative to their visibly sickly condition, this suggests there must be some self sustaining properties at play, as the subjects do not eat, yet mysteriously stay alive."
+>"On its final stages the subject will show signs of aggression toward non-carriers, a behavior akin to that one found in viruses and parasites. It is now that the subjects, now considered **Terminal Carriers** will start showing visible symptoms; sickly and greenish skin, yellowing of eyes, and surprisingly enough, astounding physical longevity relative to their visible condition, this suggests there must be some self sustaining properties at play, as the subjects do not eat, yet mysteriously stay alive."
 
 >"However, some subjects exposed to the pathogen do not appear to display any symptoms. No correlation has been found to explain why this occurs; it is speculated that it may be related to the genetic composition of their immune systems. These individuals have been labeled **Passive Carriers**, as they will eventually become sources of ZHEM as well."

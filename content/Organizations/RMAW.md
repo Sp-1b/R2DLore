@@ -1,3 +1,9 @@
+---
+title: RMAW
+draft: false
+tags:
+  -
+---
 RMAW (Research, Manufacture & Automation Works) is corporation focused on the manufacture of cutting edge technology.
 
 Parent Company of:

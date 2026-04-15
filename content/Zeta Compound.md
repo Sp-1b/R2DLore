@@ -1,3 +1,9 @@
+---
+title: Zeta Compound
+draft: false
+tags:
+  -
+---
 ## Origin
 
 Its true origin is unknown. The samples were extracted during a marine dig-site and found within sediment estimated to be at-least several million years old. On-site technicians did not pursue further analysis due to the limited scope of the project and the significant resources that further investigation would require. 

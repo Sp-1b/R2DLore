@@ -1,3 +1,9 @@
+---
+title: SANI Virus (ZH-EM)
+draft: false
+tags:
+  -
+---
 ZH-EM (Colloquially SANI virus) also known as **Zeta Homeostatic-Electromagnetic Mutagen**
 
 An undetectable disease of unknown origin, initially discovered during the early 2000s by a group of researchers from the Pathogenic Branch of [[SANI]]

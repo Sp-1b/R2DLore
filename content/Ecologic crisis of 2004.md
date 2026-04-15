@@ -1,3 +1,6 @@
+---
+title: Ecologic crisis of 2004
+---
 Simultaneous destruction of several energy plants worldwide, irreparable damage caused to natural ecosystems, hundreds of thousands dead due to air contaminants near population centers.
 
 Claimed to be the result of a coordinated attack on major energetic facilities, no [[Cult to Chronos| culprit]] is known publicly.

@@ -1,1 +1,7 @@
+---
+title: Cult to Chronos
+draft: false
+tags:
+  -
+---
 A cult devoted to the god of time, dreams and nightmares [[Chronos XXIII]], the cult is the one behind the events of the [[Ecologic crisis of 2004]]. It has multiple bases of operations, one of them being a [[Farmhouse | small farmhouse]] in the outskirts of a city
